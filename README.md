@@ -1,3 +1,3 @@
 # TST Testing Comments
 
-Testing use only
+This file is for testing use only. 
